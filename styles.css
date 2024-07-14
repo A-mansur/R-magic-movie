@@ -282,7 +282,7 @@ h2 {
     height: 300px;
     display: grid;
     place-items: center;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.4)50%), url("./Images/Banner.png");
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.4)50%), url("./Images/Banner.jpg");
     background-size: cover;
     position: relative;
 }
