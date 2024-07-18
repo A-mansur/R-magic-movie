@@ -362,6 +362,7 @@ footer .newslater {
         grid-template-columns: 1fr;
         width: 85%;
         top: 50%;
+        margin: auto;
     }
 
     .contact__form__info h2 {
