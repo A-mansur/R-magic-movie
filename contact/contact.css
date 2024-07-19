@@ -144,6 +144,10 @@ main {
     top: 70%;
 }
 
+.contact__form__info {
+    padding: 3rem 0 0;
+}
+
 .contact__form__info h2 {
     font-weight: 600;
     font-size: 2.5em;
