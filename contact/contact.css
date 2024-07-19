@@ -530,6 +530,18 @@ footer .newslater {
 
     .form .input__field {
         margin-block-end: 1.5rem;
+        height: 50px;
+        padding: 1rem;
+    }
+
+    .form #tarea {
+        height: 120px;
+        padding: 1rem;
+    }
+
+    .form button {
+        padding: 1rem 3.5rem;
+        font-size: 1.5rem;
     }
 
     /* ! FOOTER */
